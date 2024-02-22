@@ -2,4 +2,4 @@
   workflows:
   name: hello
     subclass: WDL
-    primaryDescriptorPath: /hello.wdl
+    primaryDescriptorPath: hello.wdl
